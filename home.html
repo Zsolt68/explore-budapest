@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Visit Budapest</title>
+    <title>Explore Budapest</title>
 
 <!--Bootstrap 5 CSS-->
     <link
@@ -16,22 +16,23 @@
   <link rel="stylesheet" href="assets/css/style.css"/>
 </head>
 <body>
-  
+<!-- Classes on body set to work with mt-auto on footer to ensure it always stays at the bottom of the page -->
 <body class="d-flex flex-column min-vh-100">
 
-  <!-- Navbar -->
+<!-- Navbar -->
+
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
     <div class="container">
-      <a class="navbar-brand" href="#">Budapest Explorer</a>
+      <a class="navbar-brand" href="home.html">Explore Budapest</a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav ms-auto">
-          <li class="nav-item"><a class="nav-link" href="#history">History</a></li>
-          <li class="nav-item"><a class="nav-link" href="#landmarks">Landmarks</a></li>
-          <li class="nav-item"><a class="nav-link" href="#food">Food</a></li>
-          <li class="nav-item"><a class="nav-link" href="#gallery">Gallery</a></li>
+          <li class="nav-item"><a class="nav-link" href="home.html">Home</a></li>
+        <li class="nav-item"><a class="nav-link" href="landmarks.html">Landmarks</a></li>
+        <li class="nav-item"><a class="nav-link" href="food.html">Food</a></li>
+        <li class="nav-item"><a class="nav-link" href="contact.html">Contact & Events</a></li>
         </ul>
       </div>
     </div>
@@ -50,55 +51,6 @@
   <section id="history" class="container my-5">
     <h2 class="text-center mb-4">A Glimpse into History</h2>
     <p>Budapest’s story spans Roman times, Ottoman rule, the Austro-Hungarian Empire, and modern resilience. Discover how Buda and Pest united in 1873 to form one of Europe’s most iconic capitals.</p>
-  </section>
-
-  <!-- Landmarks Section -->
-  <section id="landmarks" class="container my-5">
-    <h2 class="text-center mb-4">Famous Landmarks</h2>
-    <div class="row">
-      <div class="col-md-4 mb-4">
-        <div class="card h-100">
-          <img src="assets/images/parliament.jpg" class="card-img-top" alt="Hungarian Parliament">
-          <div class="card-body">
-            <h5 class="card-title">Hungarian Parliament</h5>
-            <p class="card-text">A neo-Gothic masterpiece on the Danube’s edge.</p>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-4 mb-4">
-        <div class="card h-100">
-          <img src="assets/images/buda_castle.jpg" class="card-img-top" alt="Buda Castle">
-          <div class="card-body">
-            <h5 class="card-title">Buda Castle</h5>
-            <p class="card-text">Historic royal palace offering panoramic views of Pest.</p>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-4 mb-4">
-        <div class="card h-100">
-          <img src="assets/images/fishermans_bastion.jpg" class="card-img-top" alt="Fisherman's Bastion">
-          <div class="card-body">
-            <h5 class="card-title">Fisherman's Bastion</h5>
-            <p class="card-text">Fairytale towers overlooking the city skyline.</p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- Food Section -->
-  <section id="food" class="container my-5">
-    <h2 class="text-center mb-4">Taste of Budapest</h2>
-    <div class="row">
-      <div class="col-md-6">
-        <h5>Goulash</h5>
-        <p>Hungary’s national dish — a hearty stew of beef, paprika, and vegetables.</p>
-      </div>
-      <div class="col-md-6">
-        <h5>Chimney Cake</h5>
-        <p>Sweet, spiral-shaped pastry grilled over open flame and coated in sugar.</p>
-      </div>
-    </div>
   </section>
 
   <!-- Gallery Section -->
@@ -125,7 +77,7 @@
 
   <!-- Footer -->
   <footer class="bg-dark text-white text-center py-3 mt-auto">
-    <p>&copy; 2025 Budapest Explorer | Follow us on social media</p>
+    <p>&copy; 2025 Explore Budapest | Follow us on social media</p>
   </footer>
 
 <!--Bootstrap JS-->
