@@ -25,7 +25,7 @@ footer {
     background-color: #0b559f; /* Example Danube blue */
     color: white;
 }
-/*Change the color from blue to white*/
+/*Change the color of the fa-brands, Instagram, Facebook and X from blue to white*/
 .fa-brands {
   color: white;
 }
