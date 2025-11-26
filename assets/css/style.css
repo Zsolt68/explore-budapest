@@ -5,6 +5,9 @@ body {
   font-family: 'Roboto', sans-serif;
   background-color: #f8f9fa;
 }
+.custom-navbar {
+    background-color: #0b559f; /* Example Danube blue */
+}
 
 h1, h2 {
   font-family: 'Lora', serif;
@@ -17,4 +20,8 @@ h1, h2 {
 footer {
   background-color: #343a40;
   color: white;
+}
+.custom-footer{
+    background-color: #0b559f; /* Example Danube blue */
+    color: white;
 }
