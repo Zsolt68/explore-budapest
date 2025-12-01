@@ -17,6 +17,39 @@ h1, h2 {
   font-weight: bold;
 }
 
+/* Set images from the Home/Gallery to have the same height and width*/
+
+#budapestCarousel .carousel-item img {
+  width: 100%;             /* always fill the carousel width */
+  height: 400px;            /* fixed height for all images */
+  object-fit: cover;       /* crop to fill without distortion */
+  display: block;          
+  margin: 0 auto;         /* center horizontally the images in the Home page */
+}
+
+/* Smaller screens: reduce max height */
+@media (max-width: 768px) {
+  #budapestCarousel .carousel-item img {
+    max-height: 250px;
+  }
+}
+
+@media (max-width: 576px) {
+  #budapestCarousel .carousel-item img {
+    max-height: 180px;
+  }
+}
+
+
+/*Position "Taste of Budapest" section to not overlap the navbar*/
+.taste-section {
+  margin-top: 100px;
+}
+.taste-section h2 {
+  margin-bottom: 20px;
+}
+
+
 footer {
   background-color: #343a40;
   color: white;
