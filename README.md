@@ -27,10 +27,11 @@ The Explore Budapest website is designed for travelers, students, and culture en
 
 ![Nav Bar](https://github.com/Zsolt68/explore-budapest/blob/main/assets/images/navbar.png)
 
-- __The landing page image__
+- __The Home page__
 
-  - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
-  - This section introduces the user to Love Running with an eye catching animation to grab their attention
+  - The Home page includes a glimpse into Budapest's history. This allows the user to read about Budapest's history, city's grand landmarks, traditional food, wine and deserts.
+  - This section introduces users to Budapest’s most iconic sights through an eye‑catching image carousel.
+  - This feature immediately grabs attention and provides a visually engaging way to explore the city’s highlights, helping visitors quickly identify places they may want to visit and learn more about.
 
 ![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
 
@@ -146,6 +147,7 @@ Below you will find a couple of extra tips that may be helpful when completing y
   - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html#General)
 
 Getting started with your Portfolio Projects can be daunting, planning your project can make it a lot easier to tackle, take small steps to reach the final outcome and enjoy the process! 
+
 
 
 
