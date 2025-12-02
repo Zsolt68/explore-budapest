@@ -103,7 +103,7 @@ This section should describe the process you went through to deploy the project 
   - From the source section drop-down menu, select the Master Branch
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
-The live link can be found here - https://zsolt68.github.io/explore-budapest/index.html
+The live link can be found here - https://zsolt68.github.io/explore-budapest
 
 
 ## Credits 
@@ -122,6 +122,7 @@ The live link can be found here - https://zsolt68.github.io/explore-budapest/ind
 - The photos used on the "Home" page are from these sites: https://www.istockphoto.com/search/2/image-film?phrase=skyline+of+budapest+with+chain+bridge+and+parliament+at+dusk&tracked_gsrp_landing=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fskyline-of-budapest-with-chain-bridge-and-parliament-at-dusk
 - The photos used on the "Food" page are from these sites: https://www.epicurious.com/recipes/food/views/dobos-torta-michelle-polzine, https://en.wikipedia.org/wiki/L%C3%A1ngos#/media/File:Langos_Eger_Hungary.jpg, https://www.mindmegette.hu/recept/kurtoskalacs, https://www.hungryhungarian.com/2018/11/hungarian-goulash-soup-gulyas.html
 - The photos used on the Landmarks page are from these sites: https://www.istockphoto.com/search/2/image-film?phrase=skyline+of+budapest+with+chain+bridge+and+parliament+at+dusk&tracked_gsrp_landing=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fskyline-of-budapest-with-chain-bridge-and-parliament-at-dusk, https://www.pexels.com/photo/statue-of-saint-stephen-in-front-of-fishermans-bastion-15512493/, https://www.pexels.com/photo/buda-castle-in-hungary-26737197/, https://www.pexels.com/photo/white-and-brown-building-beside-body-of-water-1480204/
+
 
 
 
