@@ -3,7 +3,6 @@
 - The Explore-Budapest is a multi‑page responsive website showcasing the beauty, culture, and cuisine of Budapest.  
 - The site highlights landmarks, traditional food, and provides a contact & recommendation page for upcoming events in Budapest for visitors.  
 - The Explore-Budapest hopes to inspire tourists and site visitors to discover the city’s highlights, taste its traditional dishes, and connect with its vibrant culture. The site is designed for travellers, culture enthusiasts, and anyone curious about Budapest. It will be useful for planning trips, learning about Hungarian traditions, and appreciating the city’s atmosphere.
-- The Explore Budapest website is designed for travellers, students, and culture enthusiasts who want to discover the city’s history, landmarks, food, and events. Each feature directly supports their goals from planning visits and tasting authentic cuisine to engaging with local traditions, making this project the best way to experience Budapest online before stepping into the city itself.
 
 ![Responsice Mockup](https://github.com/Zsolt68/explore-budapest/blob/main/assets/images/responsive_mockup.png)
 
@@ -119,6 +118,7 @@ The live link can be found here - https://zsolt68.github.io/explore-budapest/ind
 - The photos used on the "Home" page are from these sites: https://www.istockphoto.com/search/2/image-film?phrase=skyline+of+budapest+with+chain+bridge+and+parliament+at+dusk&tracked_gsrp_landing=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fskyline-of-budapest-with-chain-bridge-and-parliament-at-dusk
 - The photos used on the "Food" page are from these sites: https://www.epicurious.com/recipes/food/views/dobos-torta-michelle-polzine, 
 - The photos used on the Landmarks page are from these sites: https://www.istockphoto.com/search/2/image-film?phrase=skyline+of+budapest+with+chain+bridge+and+parliament+at+dusk&tracked_gsrp_landing=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fskyline-of-budapest-with-chain-bridge-and-parliament-at-dusk
+
 
 
 
