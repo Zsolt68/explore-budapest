@@ -27,7 +27,47 @@ h1, h2 {
   margin: 0 auto;         /* center horizontally the images in the Home page */
 }
 
-/* Smaller screens: reduce max height */
+/*Position "Taste of Budapest" section to not overlap the navbar*/
+.taste-section {
+  margin-top: 100px;
+}
+.taste-section h2 {
+  margin-bottom: 40px;
+}
+
+/* Center title for Landmarks page. Consistent image size and align text beneath */
+.landmark-img {
+  max-width: 100%;
+  height: 250px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+/* Center title for Food page. Consistent image size and align text beneath */
+.food-img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+/* Default styling */
+#history h5 {
+  font-size: 1.25rem;
+  line-height: 1.6;
+}
+
+/* Smaller screens for "A Glimpse into History" paragraphs in the index.html*/
+@media (max-width: 576px) {
+  #history h5 {
+    font-size: 1rem;
+    line-height: 1.5;
+    padding: 0 10px;
+  }
+}
+
+
+/* Smaller screens: reduce max height from */
 @media (max-width: 768px) {
   #budapestCarousel .carousel-item img {
     max-height: 250px;
@@ -40,20 +80,11 @@ h1, h2 {
   }
 }
 
-
-/*Position "Taste of Budapest" section to not overlap the navbar*/
-.taste-section {
-  margin-top: 100px;
-}
-.taste-section h2 {
-  margin-bottom: 20px;
-}
-
-
 footer {
   background-color: #343a40;
   color: white;
 }
+
 .custom-footer{
     background-color: #0b559f; /* Example Danube blue */
     color: white;
