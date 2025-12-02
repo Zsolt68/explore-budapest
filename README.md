@@ -3,26 +3,35 @@
 Explore-Budapest is a site that hopes to help and inform people ....
 In this section, you will include one or two paragraphs providing an overview of your project. Essentially, this part is your sales pitch. At this stage, you should have a name for your project so use it! Don’t introduce the project as a Portfolio project for the diploma. In this section, describe what the project hopes to accomplish, who it is intended to target and how it will be useful to the target audience. 
 
-For example; Love Running is a site that hopes to help keep people motivated to meet up for runs on a regular basis in Dublin, Ireland. The site will be targeted toward runners who are looking for a way to socialise and keep themselves fit. Love Running will be useful for runners to see exactly when and where they should be to join the running club. 
-![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
+![Responsice Mockup](https://github.com/Zsolt68/explore-budapest/blob/main/assets/images/responsive_mockup.png)
 
 ## Features 
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+The Home page of Explore-Budapest website enables visitors to have a quick reading about the Budapest history and shows 3 images about Budapest attractions during night.
+
+The Landmarks page shows visitors 3 different Budapest attractions.
+
+The Food page shows visistors images about the traditional Hungarian food and deserts and their short description.
+
+The Contact & Events page shows visitors 4 upcoming events and Things To Do in Budapest. When visitors click on one of the 4 events, this will direct them to the respective websites, where they can explore Budapest and book concerts, cruises on the Danube river, tickets to the Szechényi bath and Spa, etc.
+
+The Explore Budapest website is designed for travelers, students, and culture enthusiasts who want to discover the city’s history, landmarks, food, and events. Each feature directly supports their goals — from planning visits and tasting authentic cuisine to engaging with local traditions — making this project the best way to experience Budapest online before stepping into the city itself.
 
 ### Existing Features
 
 - __Navigation Bar__
 
-  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
-  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
+  - Featured on all three pages, the full responsive navigation bar includes links to the Home page, Landmarks, Food and Contact & Events pages and is identical in each page to allow for easy navigation.
+  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
+  - This helps users quickly find the information they need, whether they’re planning a trip or exploring cultural highlights.
 
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
+![Nav Bar](https://github.com/Zsolt68/explore-budapest/blob/main/assets/images/navbar.png)
 
-- __The landing page image__
+- __The Home page__
 
-  - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
-  - This section introduces the user to Love Running with an eye catching animation to grab their attention
+  - The Home page includes a glimpse into Budapest's history. This allows the user to read about Budapest's history, city's grand landmarks, traditional food, wine and deserts.
+  - This section introduces users to Budapest’s most iconic sights through an eye‑catching image carousel.
+  - This feature immediately grabs attention and provides a visually engaging way to explore the city’s highlights, helping visitors quickly identify places they may want to visit and learn more about.
 
 ![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
 
@@ -138,5 +147,8 @@ Below you will find a couple of extra tips that may be helpful when completing y
   - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html#General)
 
 Getting started with your Portfolio Projects can be daunting, planning your project can make it a lot easier to tackle, take small steps to reach the final outcome and enjoy the process! 
+
+
+
 
 
