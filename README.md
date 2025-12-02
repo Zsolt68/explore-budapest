@@ -74,10 +74,14 @@ The Explore Budapest website is designed for travellers, students, and culture e
 - Performance Optimisation. Lazy‑loading images and compressing assets improve speed, especially for mobile users on the go.
 - Multilingual Support Offering Hungarian and English versions broadens the audience and makes the site more useful for both locals and tourists.
 
-## Testing 
+## Manual Testing 
 
 - All features were tested across multiple browsers (Chrome, Edge, Firefox) and screen sizes to ensure responsiveness.  
 - The navigation bar collapses correctly on mobile, images scale fluidly, and spacing remains consistent across pages.
+
+## Automated Testing
+
+The Explore-Budapest website achieved scores above 80% in the Navigation mode (Performance, Accessibility, Best practices and SEO) through the Lighthouse report on the desktop and mobile devices.
 
 ### Validator Testing 
 
@@ -118,6 +122,7 @@ The live link can be found here - https://zsolt68.github.io/explore-budapest/ind
 - The photos used on the "Home" page are from these sites: https://www.istockphoto.com/search/2/image-film?phrase=skyline+of+budapest+with+chain+bridge+and+parliament+at+dusk&tracked_gsrp_landing=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fskyline-of-budapest-with-chain-bridge-and-parliament-at-dusk
 - The photos used on the "Food" page are from these sites: https://www.epicurious.com/recipes/food/views/dobos-torta-michelle-polzine, 
 - The photos used on the Landmarks page are from these sites: https://www.istockphoto.com/search/2/image-film?phrase=skyline+of+budapest+with+chain+bridge+and+parliament+at+dusk&tracked_gsrp_landing=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fskyline-of-budapest-with-chain-bridge-and-parliament-at-dusk
+
 
 
 
