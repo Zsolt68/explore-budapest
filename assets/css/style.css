@@ -18,7 +18,8 @@ h2 {
   font-weight: bold;
 }
 
-/* Set images from the Home/Gallery to have the same height and width*/
+/* Set images from the Home/Gallery to have the same height and width. Suggested by Microsoft Copilot.
+   Integrated and customized by Zsolt Földes.*/
 
 #budapestCarousel .carousel-item img {
   width: 100%; /* always fill the carousel width */
@@ -36,6 +37,8 @@ h2 {
   margin-bottom: 40px;
 }
 
+/* Suggested by Microsoft Copilot.
+   Integrated and customized by Zsolt Földes. */
 /* Center title for Landmarks page. Consistent image size and align text beneath */
 .landmark-img {
   max-width: 100%;
@@ -43,7 +46,8 @@ h2 {
   object-fit: cover;
   border-radius: 8px;
 }
-
+/* Suggested by Microsoft Copilot.
+   Integrated and customized by Zsolt Földes. */
 /* Center title for Food page. Consistent image size and align text beneath */
 .food-img {
   width: 100%;
@@ -52,6 +56,8 @@ h2 {
   border-radius: 8px;
 }
 
+/*Suggested by Microsoft Copilot.
+   Integrated and customized by Zsolt Földes.*/
 /* Default styling */
 #history h5 {
   font-size: 1.25rem;
