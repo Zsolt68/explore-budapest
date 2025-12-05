@@ -112,7 +112,6 @@ The live link can be found here - https://zsolt68.github.io/explore-budapest
 - This project was developed by Zsolt Földes as part of the Code Institute Full Stack Software Development diploma.
 - Development & Design: Created by Zsolt Földes as part of the Code Institute Full Stack Software Development Diploma.
 - Frameworks & Libraries: Built with Bootstrap for responsive layout and Font Awesome for icons.
-- 
 - Some code snippets, layout refinements, and documentation guidance were created with the assistance of Microsoft Copilot.
 - I used Microsoft Copilot to assist with troubleshooting layout issues, refining README documentation, and polishing responsive design. All code was reviewed, tested, and integrated by me.
 - I got help with debugging the code with Copilot.
@@ -132,6 +131,7 @@ The live link can be found here - https://zsolt68.github.io/explore-budapest
 
 ### Guidance & Support
 - Layout refinements, responsive fixes, and documentation structure were assisted by Microsoft Copilot, ensuring professional presentation and user-focused design.
+
 
 
 
